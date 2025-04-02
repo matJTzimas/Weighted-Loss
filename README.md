@@ -1,4 +1,6 @@
-# Implementation of a Weighting Loss Approach for Transformer-Based Object Detection
+# Weighting Loss Approach for Transformer-Based Object Detection
+
+Implementation of “A Weighting Loss Approach for Transformer-Based Object Detection” (Tzimas, Mygdalis, Pitas) – Accepted at IJCNN 2025.
 
 This repository contains updates to the loss criterion used in transformer-based object detection models. The updates integrate a size-balanced L1 loss to improve performance.
 
